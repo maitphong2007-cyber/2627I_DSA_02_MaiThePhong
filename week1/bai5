@@ -1,0 +1,4 @@
+mảng 5 6 0 4 0 5 0 5 6 7
+không thể là biểu diễn parent-link của một cấu
+trúc dữ liệu weighted quick vì size 0=7 mà 5 là cha của 0
+mà size 5=10 nên 0 không thể là con của 5

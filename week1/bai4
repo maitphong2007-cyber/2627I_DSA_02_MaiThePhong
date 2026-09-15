@@ -1,0 +1,6 @@
+ta có: vì 8 có sz bằng 2 nên parent[8]
+không thể là 1 2 3 5 7 vì khi thêm vào thì nhánh chứa nó đã lớn hơn độ
+dài cây gốc của cây nó chỉ có thể thêm vào các root
+nó không thể là 6 vì xét khi 6 là gốc 9 không thể được thêm vào 8
+và nó không thể bằng 9 vì khi đó nó trở thành vòng lặp
+vì vậy nó chỉ có thể là 0 4 8
